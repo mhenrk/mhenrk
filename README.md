@@ -1,16 +1,14 @@
-![Header](./github-header-image.png)
+<p align="center">
+  <img width="auto"src="./github-header-image.png">
+</p>
 
-# Seja bem vindo ao meu Git,
-
-Transformo suas ideias em projetos
-
-## 💫 Um pouco mais sobre mim
+# 💫 Um pouco mais sobre mim
 <p>🌱 I'm currently learning ReactJS & Typescript</p>
 <p>💬 Ask me about Backend API Restfull</p>
 <p>📫 How to reach me? @mhenrk</p>
 
 ## 💻 Tech Skills
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
@@ -33,7 +31,7 @@ Transformo suas ideias em projetos
 
 ## 📊 Github Status
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=mhenrk&show_icons=true"><p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mhenrk&show_icons=true"><p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhenrk&layout=compact"><p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhenrk&layout=compact"><p>
 
